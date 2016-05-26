@@ -10,18 +10,24 @@ body {
     width: 666px;
 }
 
+div#content {
+    background-color: #D8DEE9;
+    color: #1B2B34;
+}
+
 div#header {
     border-bottom: 2px solid #C594C5;
     margin-bottom: 30px;
-    padding: 12px 0px 12px 0px;
+    background-color: #343D46;
 }
 
 div#logo a {
     color: #C594C5;
     float: left;
-    font-size: 30px;
-    font-weight: 200;
+    font-size: 2em;
+    font-weight: 400;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
 div#header #navigation {
@@ -30,8 +36,8 @@ div#header #navigation {
 
 div#header #navigation a {
     color: #65737E;
-    font-size: 30px;
-    font-weight: 200;
+    font-size: 2em;
+    font-weight: 400;
     margin-left: 12px;
     text-decoration: none;
     text-transform: lowercase;
