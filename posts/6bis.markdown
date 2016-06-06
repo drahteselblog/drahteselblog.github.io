@@ -1,6 +1,6 @@
 ---
 title: Moin Moin
-date: June 4, 2016
+date: June 6, 2016
 ---
 
 Tag 6
