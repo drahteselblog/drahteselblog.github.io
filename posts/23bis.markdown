@@ -1,5 +1,5 @@
 ---
-title: und wieder Kühe
+title: Kühe und Sauwetter
 date: June 20, 2016
 ---
 
@@ -55,3 +55,26 @@ Dieser Liegt auf einer Halbinsel und man kann auf einem kleinen Pfad am Ufer ent
 ![Bild5](../images/tag24_5.jpg)
 ![Bild6](../images/tag24_6.jpg)
 ![Bild7](../images/tag24_7.jpg)
+
+Tag 25
+------
+### Söderbärke - Falun 97 km
+Auf dem Weg nach Falun war das Wetter wieder regnerisch.
+![Regen](../images/tag25_1.jpg)
+Und dazu war es auch noch recht kalt.
+![Kälte](../images/tag25_2.jpg)
+
+Die treue Leserschaft weiß sicher noch, wie ich in Deutschland nochmals zum Campingplatz zurückgeradelt bin, um den Schlüssel für mein Fahrradschloss zu holen.
+Wie sich herrausstellte hätte ich mir das auch sparen können, da mir auf dem Weg nach Falun das dazu gehörige Schloss abhanden gekommen ist.
+Diesmal war ich bereits einige Kilometer geradelt und hatte zu dem keinerlei Ahnung, wo das Schloss geblieben war.
+Ich hatte es auf eine der vorderen Taschen geschnallt und somit hätte es jederzeit runter fallen können.
+Somit habe ich das Schloss abgeschrieben und mich entschieden in Falun ein neues zu besorgen.
+Die Suche nach dem Fahrradladen nahm einige Zeit in Anspruch.
+Dort erstand ich ein recht einfaches Schloss und ein paar Beinlinge gegen die kalten Beine.
+Damit ich den Schlüssel nicht mehr verlieren kann, besitzt das neue Schloss einen Zahlencode.
+
+Anschließend ging es zu einem Campingplatz neben der Skisprunganlage, der leider nicht ganz günstig war.
+WLAN und Duschen gab es zudem nur gegen Aufpreis.
+Ich hoffe die werten Leser nehmen es mir nicht übel aber duschen ist mir dann doch wichtiger als den Blog aktuell zu halten.
+Am Abend kam dann sogar noch die Sonne raus.
+![Sonne](../images/tag25_3.jpg)
