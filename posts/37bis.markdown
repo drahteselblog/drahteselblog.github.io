@@ -1,6 +1,6 @@
 ---
 title: Hashtag Velolife
-date: July 5, 2016
+date: July 6, 2016
 ---
 
 Tag 37
@@ -26,12 +26,12 @@ Tag 38
 ![Bild2](../images/tag38_2.jpg)
 
 Ich hatte mir bereits am Tag zuvor vorgenommen mal etwas kürzer zu treten.
-Um kurz nach 3 entdeckte ich dann einen netten Badeplatz und beschloß, dort zu bleiben.
+Um kurz nach drei ich dann einen netten Badeplatz und beschloß, dort zu bleiben.
 Außer mir stand noch ein Wohnmobil auf der Wiese, aber die Bewohner schienen zu schlafen.
 Ich ging kurz baden und legte mich anschließend im Zelt ein bisschen hin.
 Als es langsam Zeit zum Abendessen war tat sich auch etwas bei meinen Nachbarn.
-Jonas und Tim waren schon 2 Monate in Skandinavien unterwegs und hielten sich nicht mehr an einen normalen Schlafrythmus.
-Ist irgentwo ja auch verständlich, wenn es nie dunkel ist.
+Jonas und Tim waren schon zwei Monate in Skandinavien unterwegs und hielten sich nicht mehr an einen normalen Schlafrythmus.
+Da es nie wirklich dunkel ist, kann man sein Leben ja genau so gut in der Nacht leben.
 Wir nahmen dann gemeinsam unser Abendessen bzw. Frühstück zu uns.
 Anschließend wurde ein Lagerfeuer entfacht.
 ![L-A-G-E-R-F-E-U-E-R-L-I-E-D-Lied](../images/tag38_4.jpg)
