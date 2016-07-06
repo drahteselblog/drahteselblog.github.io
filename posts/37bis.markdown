@@ -60,3 +60,31 @@ Nach einem solchen Tag war eine Dusche sehr willkommen.
 Die Wäscheleine konnte ich leider auch hier nur kurz testen.
 ![Sikfors](../images/tag39_2.jpg)
 
+Tag 40
+------
+### Sikfors - Älvsbyn 24 km
+
+*Wenn ich es in 80 Tagen um die Welt schaffen will, dann muss ich mich bei der zweiten Hälfte etwas mehr ins Zeug legen.*
+
+Leider fing auch dieser Tag mit Regen an.
+An Regentagen brauche ich immer was länger um mich im Zelt aufzuraffen und um anschließend alles halbwegs trocken zu verstauen.
+Als ich dann nach 10 Kilometern in einem Bushaltestellenhäuschen Zuflucht suchte war ich bereits komplett durchnässt.
+Die neue Regenjacke hat sich zwar bewährt doch die Handschuhe konnten dem Regen nicht Stand halten und an den Socken lief das Wasser in die Schuhe.
+Ich tauschte die Socken gegen ein trockenes Paar, zog mit viel Mühe die nassen Handschuhe wieder an (Leider hatte ich kein trockenes Paar dabei) und fuhr weiter.
+![Wetterbiene](../images/tag40_1.jpg)
+
+Bei dem Wetter wollte ich  gerne wieder auf einen Campingplatz oder besser noch eine Jugendherberge um im Trockenen zu sein und meine Sachen dort zu trocknen.
+In Älvsbyn angekommen stand ich dann vor der Wahl.
+Entweder die 40 Kilometer bis Boden radeln wo es eine Jugendherberge und einen Campingplatz gab oder auf dem Campingplatz in Älvsbyn nächtigen.
+Da ich keine 40 Kilometer weiter durch den Regen fahren wollte, entschied ich mich für Letzteres.
+Die Dame an der Reception bot mir netterweise an, für den selben Preis in einer Hütte zu schlafen.
+Natürlich nahm ich das Angebot an.
+![Meine Hütte](../images/tag40_2.jpg)
+
+Als Erstes habe ich die Wäscheleine Quer durch den Flur gespannt und die Heizung aufgedreht.
+Anschließend habe ich erstmal eine Maschine Wäsche angemacht.
+Während die Maschine lief ging ich ein bisschen am Pite Älven spazieren.
+Der Regen hatte (wie sollte es auch anders sein) inzwischen nachgelassen.
+![Spaziergang](../images/tag40_3.jpg)
+![Spaziergang](../images/tag40_4.jpg)
+![Spaziergang](../images/tag40_5.jpg)
