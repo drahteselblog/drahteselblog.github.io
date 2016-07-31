@@ -1,6 +1,6 @@
 ---
 title: Eine Woche Ylöjärvi
-date: Ju31 31, 2016
+date: July 31, 2016
 ---
 
 Tag 53
